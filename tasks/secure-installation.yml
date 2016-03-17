@@ -28,6 +28,7 @@
     group: root
     mode: 0600
 
+
 - wait_for: port=3306 delay=10
 
 - name: Get list of hosts for the anonymous user.
