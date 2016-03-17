@@ -8,6 +8,7 @@ Installs and configures MySQL or MariaDB server on RHEL/CentOS or Debian/Ubuntu 
 
 None.
 
+
 ## Role Variables
 
 Available variables are listed below, along with default values (see `vars/main.yml`):
