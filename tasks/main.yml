@@ -32,5 +32,5 @@
 # Configure MySQL.
 - include: configure.yml
 - include: databases.yml
-# - include: secure-install.yml
-- users.yml
+- include: secure-install.yml
+- include: users.yml
